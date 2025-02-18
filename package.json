@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "ollama": "^0.5.13"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.2"
+  }
+}
