@@ -24,3 +24,4 @@ Run the bot
 ```
 bun main.js
 ```
+![output](https://github.com/user-attachments/assets/40fd7a57-7e4d-48b9-8639-f8f9256fe4f3)
